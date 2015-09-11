@@ -1,0 +1,1 @@
+[All instructions are available here](https://code.google.com/p/heekscad/wiki/HeeksCncUnderUbuntu)
